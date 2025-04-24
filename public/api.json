@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. beyan",
+    "degree": "BHMS, DNB, deploma in মেয়ে পটানো ",
+    "specialty": "Nephrology",
+    "experience": "11 Years",
+    "visit_price": 1000,
+    "available_days": ["Sunday", "Monday", "Wednesday", "Thursday", "Saturday"],
+    "description": "Specialist in kidney care and dialysis management with over a decade of experience.",
+    "current_working": "Kidney Health Clinic, Dhaka",
+    "registration_no": "BD16928733",
+    "image": "https://i.ibb.co.com/YBzW5jRB/d12.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. harun",
+    "degree": "BHMS, DNB, deploma in aktu por kotha bola",
+    "specialty": "Nephrology",
+    "experience": "11 Years",
+    "visit_price": 1000,
+    "available_days": ["Sunday", "Monday", "Wednesday", "Thursday", "Saturday"],
+    "description": "Specialist in kidney care and dialysis management with over a decade of experience.",
+    "current_working": "Kidney Health Clinic, Dhaka",
+    "registration_no": "BD16928733",
+    "image": "https://i.ibb.co.com/YBzW5jRB/d12.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Takku",
+    "degree": "BHMS, DNB, deploma in khobor nai",
+    "specialty": "Nephrology",
+    "experience": "11 Years",
+    "visit_price": 1000,
+    "available_days": ["Sunday", "Monday", "Wednesday", "Thursday", "Saturday"],
+    "description": "Specialist in kidney care and dialysis management with over a decade of experience.",
+    "current_working": "Kidney Health Clinic, Dhaka",
+    "registration_no": "BD16928733",
+    "image": "https://i.ibb.co.com/YBzW5jRB/d12.jpg"
+  }
+]
